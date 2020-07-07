@@ -1,0 +1,9 @@
+https://documenter.getpostman.com/view/11842029/T17Dg8ja?version=latest
+https://documenter.getpostman.com/view/10495835/T17J9T7d
+
+
+Home Deal Title data to be real
+--deal page need to display data
+--fix sign/signup service
+--resize footer to be small than current
+fix category icons size and linked to category page
